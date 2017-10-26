@@ -1,5 +1,6 @@
 # My Voice Assistant  
 Shiyu Mou
+Iquotient Robotics 
 shiyumou@usc.edu
 ### Introduction 
 This is my Voice Assistant featured with hot-word detection (Alexa!),  natural language chatting (in Chinese), and voice control of ROS robot. 
