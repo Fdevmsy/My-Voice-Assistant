@@ -27,6 +27,7 @@ This is my Voice Assistant featured with hot-word detection (Alexa!),  natural l
 7. Install ffmpeg: [https://www.faqforge.com/linux/how-to-install-ffmpeg-on-ubuntu-14-04/](https://www.faqforge.com/linux/how-to-install-ffmpeg-on-ubuntu-14-04/)
 8. This code includes voice control of ROS robot, so you may also need to install ROS. 
 9. This program is using [Baidu Voice APIs](http://yuyin.baidu.com) for TTS and STT, [Turing Robot](http://www.tuling123.com) for text understanding and replying, you may apply your own keys in these two website and replace them in main() function of run_chatbot.py
+
 ###Usage: 
 1. Bring up roscore. 
 1. cd to ~/chatbot
