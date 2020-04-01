@@ -2,7 +2,6 @@
 
 # __Auther__: Shiyu Mou
 # __Copyright__: Iquotient Robotics 2017
-# __Email__: fdevmsy@yahoo.com
 
 
 #!/usr/bin/env python
